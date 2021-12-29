@@ -1,0 +1,7 @@
+.note-list {
+    margin: 0 25px 50vh;
+}
+
+.react-draggable-transparent-selection .note-list {
+    margin-bottom: 100vh;
+}
